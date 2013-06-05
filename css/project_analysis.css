@@ -9,11 +9,12 @@ body {
 }
 
 #container {
+	font-family: 'Finger Paint', sans;
 	width: 77.45098%;
 	border: 1px solid #666;
 	margin-left: 10%;
 	padding-bottom: 40px;
-	background-color: #FDF5E6;
+	background-color: #F8F8FF;
 	-moz-box-shadow: 5px 13px 12px black;
 	-webkit-box-shadow: 5px 13px 12px black;
 	box-shadow: 5px 0px 12px black, inset 0px 0px 300px 0px #C7C7C7; 
@@ -21,12 +22,12 @@ body {
 
 #client {
 	color: #333333;
-	width: 80%;
+	width: 40%;
 	font-size: 2em;
 	text-align: center;	
 	border-bottom: 2px solid;
 	padding-bottom: 1px;
-	margin-left: 10%;
+	margin-left: 30%;
 	margin-bottom: 15px;
 }
 
@@ -53,6 +54,7 @@ a:active {
 
 #name {
 	text-align: center;
+	position: top;
 }
 
 
